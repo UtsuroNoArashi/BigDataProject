@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.1">
   <diagram name="ClinicalEventsMart" id="evrPgKty7zAFgVJ-czKh">
-    <mxGraphModel dx="624158" dy="899870" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="624158" dy="899870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="light-dark(#000000,#232136)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -699,6 +699,9 @@
         </mxCell>
         <mxCell id="5oIpiCQzk-riDukZyozj-1634" value="" style="ellipse;direction=south;fillColor=light-dark(#FFFFFF,#EA9A97);" vertex="1" parent="1">
           <mxGeometry x="-622530" y="-898226.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5oIpiCQzk-riDukZyozj-2427" value="&lt;b&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(196, 167, 231));&quot;&gt;# Decisional Queries&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 207, 216));&quot;&gt;1.&lt;/span&gt; How many people have been diagnosed with depression in the past year in Boston?&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 207, 216));&quot;&gt;2.&lt;/span&gt; Which are the top 5 medication prescribed to cure depression in the past 2 year in springfield?&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 207, 216));&quot;&gt;3.&lt;/span&gt; Which are the 5 most common condition diagnosed in people over 60 in the past 10 year in &quot;CAPE COD HOSPITAL&quot;?&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 207, 216));&quot;&gt;4.&lt;/span&gt; Which are the 5 most common procedure done on people under 30 in the past 3 years in Brookline?&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 207, 216));&quot;&gt;5.&lt;/span&gt; What is the most common condition diagnosed in people that suffer of diabetes in 2002 in Orleans?&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 207, 216));&quot;&gt;6.&lt;/span&gt; How many people are allergic to latex in the past 25 years in Brookline?&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 207, 216));&quot;&gt;7.&lt;/span&gt; Which year had the fewest number of pregnancies in watertown?&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 207, 216));&quot;&gt;8. &lt;/span&gt;How many people have suffered of seizure in the past 10 years in cambridge?&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 207, 216));&quot;&gt;9. &lt;/span&gt;What are the 5 most diagnosed illnesses in Brookline in 2017?&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 207, 216));&quot;&gt;&lt;br&gt;10.&lt;/span&gt; How many people got their shot of vaccine agaist COVID-19 since 2020 in Chelsea?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="-621600" y="-898998.5" width="784" height="197" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
