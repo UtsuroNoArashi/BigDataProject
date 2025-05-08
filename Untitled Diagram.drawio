@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.1">
   <diagram name="ClinicalEventsMart" id="evrPgKty7zAFgVJ-czKh">
-    <mxGraphModel dx="625177" dy="901172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="light-dark(#FFFFFF,#232136)" math="0" shadow="0">
+    <mxGraphModel dx="624040" dy="900611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="light-dark(#FFFFFF,#232136)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,8 +148,8 @@
         <mxCell id="5oIpiCQzk-riDukZyozj-1464" value="&lt;div&gt;Code&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="-622295" y="-898986.5" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oIpiCQzk-riDukZyozj-1467" value="&lt;div&gt;Procedure_code&lt;/div&gt;&lt;div&gt;(patient_id+encounter_id+procedure_code)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="-622280" y="-898296.5" width="260" height="40" as="geometry" />
+        <mxCell id="5oIpiCQzk-riDukZyozj-1467" value="&lt;div&gt;Procedure_Code&lt;/div&gt;&lt;div&gt;(Patient_ID + Encounter_ID + Procedure_Code)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="-622295" y="-898296.5" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5oIpiCQzk-riDukZyozj-1472" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=none;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;startFill=0;" parent="1" source="5oIpiCQzk-riDukZyozj-1475" target="5oIpiCQzk-riDukZyozj-1481" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -270,8 +270,8 @@
         <mxCell id="5oIpiCQzk-riDukZyozj-1555" value="&lt;div&gt;Organization&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
           <mxGeometry x="-621797.5" y="-898884.25" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5oIpiCQzk-riDukZyozj-1556" value="&lt;div&gt;vaccinations&lt;/div&gt;&lt;div&gt;(patient_id+encounter_id+immunization_code)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
-          <mxGeometry x="-622275" y="-898012.5" width="270" height="40" as="geometry" />
+        <mxCell id="5oIpiCQzk-riDukZyozj-1556" value="&lt;div&gt;Vaccinations&lt;/div&gt;&lt;div&gt;(Patient_ID + Encounter_ID + Immunization_Code)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="-622305" y="-898011.75" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5oIpiCQzk-riDukZyozj-1557" value="" style="ellipse;direction=south;fillColor=light-dark(#FFFFFF,#EA9A97);align=left;" parent="1" vertex="1">
           <mxGeometry x="-621797.5" y="-898842.5" width="20" height="20" as="geometry" />
